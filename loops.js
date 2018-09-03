@@ -1,9 +1,6 @@
 // strange loops
-
 const myArray = [];
-
 function forLoop () {
-
   for (let i = 0; i < 25; i++) {
     if (i === 1) {
       myArray.push("I am 1 strange loop.");
@@ -14,16 +11,8 @@ function forLoop () {
   return myArray;
 }
 
- for (let i = 0; i < 25; i++) {
-    if (i === 1) {
-      console.log("I am 1 strange loop.");
-    }else{
-       console.log("I am " + i + " strange loops.");
-    } 
-  }
   
 // while loop
-
 function whileLoop (n) {
   let countdown = n;
   while (countdown > 0) {
@@ -32,5 +21,5 @@ function whileLoop (n) {
   return ("done")
 }
 
-// do while loop
+// do-while loop
 
