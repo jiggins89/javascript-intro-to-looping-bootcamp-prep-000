@@ -32,4 +32,5 @@ function doWhile (array) {
     array.shift();
     incrementVariable();
   } while (array.length > 0);
+  return array
 }
