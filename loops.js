@@ -22,7 +22,7 @@ function whileLoop (n) {
 }
 
 // do-while loop
-function doWhile (array) {
+function doWhileLoop (array) {
   var i = 0;
   function incrementVariable() {
     i = i + 1;
