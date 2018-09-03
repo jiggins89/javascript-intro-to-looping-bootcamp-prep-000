@@ -23,5 +23,5 @@ function whileLoop (n) {
 
 // do-while loop
 function doWhile (array) {
-  
+  var i = 0;
 }
