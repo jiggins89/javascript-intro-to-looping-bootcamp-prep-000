@@ -22,4 +22,6 @@ function whileLoop (n) {
 }
 
 // do-while loop
-
+function doWhile (array) {
+  
+}
