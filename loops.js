@@ -29,7 +29,7 @@ function doWhile (array) {
   }
   
   do {
-    console.log("doo-bee-doo-bee-doo");
+    array.shift;
     incrementVariable();
   } while (array.length > 0);
 }
